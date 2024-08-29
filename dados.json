@@ -1,0 +1,11 @@
+{
+    "name": "Nike",
+    "modelo": "Jordan 4 - Military Black",
+    "price": "R$1.900,00",
+    "image": "<img src='img/jordan4.jpeg'class='img1' width='350px'>",
+
+    "name2": "Nike",
+    "modelo2": "Dunk Low Michigan State",
+    "price2": "R$950,00",
+    "image2": "<img src='img/dunkLow.jpeg'class='img2' width='350px'>"
+}
